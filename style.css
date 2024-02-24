@@ -1,0 +1,50 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+h1 {
+    background-color: black;
+    color: lightgray;
+    text-align: center;
+    
+}
+
+h2 {
+    background-color: black;
+    color: lightblue;
+    text-align: center;
+}
+
+#ext-link {
+    background-color: darkgray;
+    color: purple;
+    text-align: center;
+}
+
+
+.link {
+    background-color: darkgray;
+    color: purple;
+    text-align: center;
+}
+
+.recipe-title {
+    background-color: lightgreen;
+    color: blue;
+}
+
+.u-list {
+    background-color: gray;
+    color: aqua;
+}
+
+ol li {
+    background-color: gray;
+    color: black;
+}
+
+ul li {
+    background-color: gray;
+    color: darkblue;
+}
